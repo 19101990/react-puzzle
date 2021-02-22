@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-puzzle/static/css/main.6fb3e523.chunk.css",
+    "main.js": "/react-puzzle/static/js/main.e5fdb039.chunk.js",
+    "main.js.map": "/react-puzzle/static/js/main.e5fdb039.chunk.js.map",
+    "runtime-main.js": "/react-puzzle/static/js/runtime-main.43b9f9d3.js",
+    "runtime-main.js.map": "/react-puzzle/static/js/runtime-main.43b9f9d3.js.map",
+    "static/js/2.65893ce8.chunk.js": "/react-puzzle/static/js/2.65893ce8.chunk.js",
+    "static/js/2.65893ce8.chunk.js.map": "/react-puzzle/static/js/2.65893ce8.chunk.js.map",
+    "index.html": "/react-puzzle/index.html",
+    "static/css/main.6fb3e523.chunk.css.map": "/react-puzzle/static/css/main.6fb3e523.chunk.css.map",
+    "static/js/2.65893ce8.chunk.js.LICENSE.txt": "/react-puzzle/static/js/2.65893ce8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43b9f9d3.js",
+    "static/js/2.65893ce8.chunk.js",
+    "static/css/main.6fb3e523.chunk.css",
+    "static/js/main.e5fdb039.chunk.js"
+  ]
+}
